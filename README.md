@@ -9,6 +9,7 @@ A muted red, white, and blue theme, giving Piwik a cool, calm feel. Good colour 
 Version 0.1.0: First public release
 Version 0.1.1: Minor code fixes
 Version 0.1.2: Typo fixes
+Version 0.1.3: Typo fixes, more screenshots
 
 ## Support
 
