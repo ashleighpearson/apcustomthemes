@@ -1,0 +1,10 @@
+{
+    "name": "Vale",
+    "description": "A muted red, white, and blue theme",
+    "keywords": ["red", "white", "blue", "light", "theme"],
+    "version": "0.1.0",
+    "authors": {"name": "Ashleigh Pearson"},
+    "license": "GPLv3",
+    "theme": true,
+    "stylesheet": "stylesheets/theme.less"
+}
