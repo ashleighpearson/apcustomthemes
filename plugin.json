@@ -6,7 +6,9 @@
     "homepage":"https://github.com/ashleighpearson/apcustomthemes",
     "authors": [
       {
-        "name": "Ashleigh Pearson"
+        "name": "Ashleigh Pearson",
+        "homepage": "https://github.com/ashleighpearson",
+        "email": "ashleigh.pearson.nz@gmail.com"
       }
       ],
     "license": "GPLv3",
